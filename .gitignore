@@ -1,5 +1,7 @@
 ### dist: 前端打包生成的目标文件
-./dist
+dist/
 
 ### node_modules: 前端的依赖库文件
-./node_modules
+node_modules/
+
+
